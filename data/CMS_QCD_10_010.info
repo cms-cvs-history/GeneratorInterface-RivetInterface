@@ -10,6 +10,7 @@ Authors:
  - M. Zakaria (mzakaria@ufl.edu)
  
 References:
- CMS-PAS-QCD-10-010
- 
-Non single diffrative events. Switch on single diffraction on generator.
+ CMS-PAS-QCD-10-010 document and
+ https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsQCD10010
+ArXive ID:	arXiv:1107.0330v1 [hep-ex] 
+Non single diffrative events. Switch on single diffraction on generator. The code covers two center of mass energies but to fill all this histograms you need to run it twice. Convers the .aida files to .dat and then convert back to .aida. The profile plots require many events. in the example plots associated, we used 1M events. 

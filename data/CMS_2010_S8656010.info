@@ -14,9 +14,9 @@ References:
  - arXiv:1005.3299 [hep-ex]
 RunInfo:
    Non-single-diffractive (NSD) events only.  Should include double-diffractive (DD) events
-   and non-diffractive (ND) events but NOT single-diffractive (SD) events.  Example, in Pythia6 the
-   SD processes to be turned off are 92 and 93.  In Pythia8 the SD processes are 103 and
-   104 (also called SoftQCD:singleDiffractive).
+   and non-diffractive (ND) events but NOT single-diffractive (SD) events. For example, in 
+   Pythia6 the SD processes to be turned off are 92 and 93, and in Pythia8 the SD processes 
+   are 103 and 104 (also called SoftQCD:singleDiffractive).
 NumEvents: 200000
 Beams: [p+, p+]
 Energies: [7000]

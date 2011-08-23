@@ -1,0 +1,33 @@
+Name: CMS_2011_S9088458 
+Year: 2011
+Summary: Measurement of ration of the 3-jet over 2-jet cross section in pp collisions at sqrt(s) = 7 TeV
+Experiment: CMS
+Collider: LHC
+SpiresID: 9088458 
+Status: UNVALIDATED
+Authors:
+ - Tomo Umer <tomo.umer@cern.ch>
+References:
+ - Phys. Lett. B 702 (2011) 336
+RunInfo:
+   Inclusive QCD at 7TeV comEnergy, ptHat (or equivalent) greater than 30 GeV
+NumEvents: 100k
+Beams: [p+, p+]
+Energies: [7000]
+PtCuts:
+  jet PT higher than 50 GeV
+Description:
+  A measurement of the ratio of the inclusive 3-jet to 2-jet cross sections as a function of the total jet
+  transverse momentum, HT, in the range 0.2 < HT < 2.5 TeV is presented. The data have been collected
+  at a proton-proton centre-of-mass energy of 7 TeV with the CMS detector at the LHC, and correspond
+  to an integrated luminosity of 36/pb. Comparisons are made between the data and the predictions of
+  different QCD-based Monte Carlo models for multijet production. All models considered in this study are
+  consistent with the data for HT > 0.5 TeV. This measurement extends to an HT range that has not been
+  explored before.
+BibKey: 
+   '<Insert SPIRES BibTeX key>'
+BibTeX: 
+   '<Insert SPIRES BibTeX block>'
+ToDo:
+ - update reference when paper published
+

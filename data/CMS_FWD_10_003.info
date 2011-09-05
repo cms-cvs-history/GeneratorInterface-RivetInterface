@@ -2,12 +2,22 @@ Name: CMS_FWD_10_003
 Year: 2011
 Summary: Measurement of forward jets in proton--proton collisions at sqrt(s) = 7 TeV
 Experiment: CMS
-Collider: CERN LHC
+Collider: LHC
 SpiresID:
 Status: UNVALIDATED
 Authors:
   - Rasmus Sloth Hansen <rsh07@phys.au.dk>
- 
 References:
  CMS-PAS-FWD-10-003
- 
+RunInfo:
+   pp QCD interactions at 0.9 and 7 TeV.
+NumEvents: 10000000
+Beams: [p+, p+]
+Energies: [7000] 
+Description:
+   Forward jet production mesured by CMS at sqrt(s)=7 TeV.
+BibKey: 
+BibTeX:
+Todo:
+  - Update reference when analysis published
+  

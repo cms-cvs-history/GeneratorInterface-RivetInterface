@@ -4,7 +4,7 @@ Summary: Measurement of the Inclusive Jet Cross Section in pp Collisions at sqrt
 Experiment: CMS
 Collider: LHC
 SpiresID: 9086218 
-Status: UNVALIDATED
+Status: VALIDATED
 Authors:
  - Rasmus Sloth Hansen<rsh07@phys.au.dk>
 References:
@@ -17,11 +17,23 @@ Energies: [7000]
 PtCuts:
   jet PT higher than 18 GeV
 Description:
-  The inclusive jet cross section is measured in pp collisions with a center-of-mass energy of 7 TeV at the LHC using the CMS experiment. The data sample corresponds to an integrated luminosity of 34 inverse picobarns. The measurement is made for jet transverse momenta in the range 18-1100 GeV and for absolute values of rapidity less than 3. The measured cross section extends to the highest values of jet pT ever observed and, within the experimental and theoretical uncertainties, is generally in agreement with next-to-leading-order perturbative QCD predictions.
-BibKey: 
-   '<Insert SPIRES BibTeX key>'
-BibTeX: 
-   '<Insert SPIRES BibTeX block>'
-ToDo:
- - update reference when paper published
-
+  The inclusive jet cross section is measured in pp collisions with a center-of-mass
+  energy of 7 TeV at the LHC using the CMS experiment. The data sample corresponds to an
+  integrated luminosity of 34 inverse picobarns. The measurement is made for jet transverse
+  momenta in the range 18-1100 GeV and for absolute values of rapidity less than 3.
+BibKey: :2011me
+BibTeX: '@article{:2011me,
+      author         = "Chatrchyan, Serguei and others",
+      title          = "{Measurement of the Inclusive Jet Cross Section in pp
+                        Collisions at sqrt(s) = 7 TeV}",
+      collaboration  = "CMS Collaboration",
+      journal        = "Phys. Rev. Lett.",
+      volume         = "107",
+      pages          = "132001",
+      doi            = "10.1103/PhysRevLett.107.132001",
+      year           = "2011",
+      note           = "Long author list - awaiting processing",
+      eprint         = "1106.0208",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ex",
+}'

@@ -4,7 +4,7 @@ Summary: Dijet Azimuthal Decorrelations in pp Collisions at sqrt(s) = 7 TeV
 Experiment: CMS
 Collider: LHC
 SpiresID: 8950903 
-Status: UNVALIDATED
+Status: VALIDATED
 Authors:
  - Tomo Umer <tomo.umer@cern.ch>
 References:
@@ -17,13 +17,19 @@ Energies: [7000]
 Description:
   Measurements of dijet azimuthal decorrelations in pp collisions at sqrt(s) = 7 TeV using the CMS
   detector at the CERN LHC are presented. The analysis is based on an inclusive dijet event sample
-  corresponding to an integrated luminosity of 2.9/pb. The results are compared to predictions from
-  perturbative QCD calculations and various Monte Carlo event generators. The dijet azimuthal distributions
-  are found to be sensitive to initial-state gluon radiation.
-BibKey: 
-   '<Insert SPIRES BibTeX key>'
-BibTeX: 
-   '<Insert SPIRES BibTeX block>'
-ToDo:
- - update reference when paper published
+  corresponding to an integrated luminosity of 2.9/pb.
+BibKey: Khachatryan:2011zj
+BibTeX: '@article{Khachatryan:2011zj,
+      author         = "Khachatryan, Vardan and others",
+      title          = "{Dijet Azimuthal Decorrelations in $pp$ Collisions at
+                        $\sqrt{s} = 7$~TeV}",
+      collaboration  = "CMS Collaboration",
+      journal        = "Phys.Rev.Lett.",
+      volume         = "106",
+      pages          = "122003",
+      doi            = "10.1103/PhysRevLett.106.122003",
+      year           = "2011",
+      eprint         = "1101.5029",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ex",}'
 

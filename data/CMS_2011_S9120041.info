@@ -1,17 +1,16 @@
-Name: CMS_QCD_10_010
+Name: CMS_2011_S9120041
 Year: 2011
 Summary: Traditional UE measurement at sqrt(s)=0.9 and 7 TeV. Charge particle analysis transverse to the leading jets.
 Experiment: CMS
 Collider: LHC
-SpiresID: 
-Status: UNVALIDATED
+SpiresID: 9120041
+Status: VALIDATED
 Authors:
  - Mohammed Zakaria (mzakaria@ufl.edu) 
 References:
-  - CMS-PAS-QCD-10-010 document and https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsQCD10010
-  - arXiv:1107.0330v1 [hep-ex] 
+  - J. High Energy Phys 09 (2011) 109 
 RunInfo:
-   Non single diffrative events. Switch on single diffraction on generator. 
+   Non single diffrative events. Switch on single diffraction in generator. 
    The profile plots require large statistics.
 Beams: [p+, p+]
 Energies: [900, 7000]
@@ -29,7 +28,15 @@ Description:
    multiplcity of charged particles and the scalar sum of pT. and 3 distributions 
    for the two previous quantities as well we pT for all the particles in the 
    transverse region. 
-BibKey: 
-BibTeX: 
-To do:
- - UPDATE REFERENCES AND BIBTEX WHEN PUBLISHED
+BibKey: Chatrchyan:2011id
+BibTeX: '@article{Chatrchyan:2011id,
+      author         = "Chatrchyan, Serguei and others",
+      title          = "{Measurement of the Underlying Event Activity at the LHC
+                        with sqrt(s)= 7 TeV and Comparison with sqrt(s) = 0.9
+                        TeV}",
+      collaboration  = "CMS Collaboration",
+      year           = "2011",
+      eprint         = "1107.0330",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ex",}'
+

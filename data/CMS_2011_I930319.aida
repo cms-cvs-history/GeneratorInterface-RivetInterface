@@ -3,7 +3,7 @@
 <aida version="3.3">
   <implementation version="1.1" package="FreeHEP"/>
   <dataPointSet name="d01-x01-y01" dimension="2"
-    path="/REF/CMS_FWD_10_011" title="Forward Energy Flow, MB, 0.9 TeV">
+    path="/REF/CMS_2011_I930319" title="Forward Energy Flow, MB, 0.9 TeV">
     <dataPoint>
       <measurement errorPlus="1.751000e-01" value="3.327100e+00" errorMinus="1.751000e-01"/>
       <measurement errorPlus="4.737071e+00" value="4.088540e+01" errorMinus="4.737071e+00"/>
@@ -26,7 +26,7 @@
     </dataPoint>
   </dataPointSet>
   <dataPointSet name="d02-x01-y01" dimension="2"
-    path="/REF/CMS_FWD_10_011" title="Forward Energy Flow, Dijets, 0.9 TeV">
+    path="/REF/CMS_2011_I930319" title="Forward Energy Flow, Dijets, 0.9 TeV">
     <dataPoint>
       <measurement errorPlus="1.751000e-01" value="3.327100e+00" errorMinus="1.751000e-01"/>
       <measurement errorPlus="7.481139e+00" value="6.128790e+01" errorMinus="7.481139e+00"/>
@@ -49,7 +49,7 @@
     </dataPoint>
   </dataPointSet>
   <dataPointSet name="d03-x01-y01" dimension="2"
-    path="/REF/CMS_FWD_10_011" title="Forward Energy Flow, MB, 7 TeV">
+    path="/REF/CMS_2011_I930319" title="Forward Energy Flow, MB, 7 TeV">
     <dataPoint>
       <measurement errorPlus="1.751000e-01" value="3.327100e+00" errorMinus="1.751000e-01"/>
       <measurement errorPlus="1.005855e+01" value="9.023760e+01" errorMinus="1.005855e+01"/>
@@ -72,7 +72,7 @@
     </dataPoint>
   </dataPointSet>
   <dataPointSet name="d04-x01-y01" dimension="2"
-    path="/REF/CMS_FWD_10_011" title="Forward Energy Flow, Dijets, 7 TeV">
+    path="/REF/CMS_2011_I930319" title="Forward Energy Flow, Dijets, 7 TeV">
     <dataPoint>
       <measurement errorPlus="1.751000e-01" value="3.327100e+00" errorMinus="1.751000e-01"/>
       <measurement errorPlus="3.271320e+01" value="1.609710e+02" errorMinus="3.271320e+01"/>

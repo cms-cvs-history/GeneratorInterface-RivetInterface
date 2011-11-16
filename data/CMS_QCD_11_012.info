@@ -1,0 +1,33 @@
+Name: CMS_QCD_11_012
+Year: 2011
+Summary: Measurement of the Underlying Event Activity in the Drell-Yan process at centre-of-mass energy of 7 TeV .
+Experiment: CMS
+Collider: LHC
+SpiresID: 
+Status: UNVALIDATED
+Authors:
+ - Sunil Bansal (sunil.bansal@cern.ch) 
+References:
+RunInfo: Drell-Yan events with $Z/\gamma* -> \mu\mu$. $m(\mu,\mu) > 20$ GeV
+Beams: [p+, p+]
+Energies: [7000]
+pT Cuts: pT > 0.5 GeV (all charged particles)
+Description: 
+   A measurement of the underlying event activity using Drell-Yan events using muonic final state.
+   The production of charged particles with pseudorapidity |eta| < 2 and
+   transverse momentum pT > 0.5 GeV/c is studied in towards, transverse and away region w.r.t. to
+   the direction of di-muon system. The UE activity is measured in terms of of a particle density 
+   and an energy density. The particle density is computed as the average number of primary charged
+   particles per unit pseudorapidity and per unit azimuth. The energy density is expressed in terms
+   of the average of the scalar sum of the transverse momenta of primary charged particles per unit
+   pseudorapidity and azimuth.  The ratio of the energy and particle density is also reported in 3 regions. 
+   UE activity  is studied as a function of invariant mass of muon pair (M_mumu)
+   by limiting the ISR contribution by requiring transverse momentum of muon pair ( pT_mumu) < 5 GeV/c. The pT_mumu
+   dependence is studied for the events having M_mumu in window of 81-101 GeV^{c}. The normalized charged particle 
+   multiplicity and pT spectrum of the charged particles in three regions also been reported for events having M_mumu in window of 81-101 GeV^{c}.
+   multiplicity and pT spectrum in the transverse also reported in for events having pT_mumu < 5 GeV/c.
+ 
+BibKey: 
+BibTeX: 
+To do:
+ - UPDATE REFERENCES AND BIBTEX WHEN PUBLISHED

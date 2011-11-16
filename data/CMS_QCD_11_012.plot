@@ -2,6 +2,7 @@
 Title=$<\text{N}_\text{ch}>$  vs $\text{p}_{T}^{\mu\mu}$, $| \Delta \phi | < 60^{o}$, $  M_{\mu\mu} \in [81,101]$ GeV/c$^{2}$
 XLabel=$\text{p}_{T}^{\mu\mu}$ [GeV/c]
 YLabel=$(1/N_\text{ev})\; dN_\text{ch}/\Delta \eta \Delta (\Delta \phi) $
+LegendYPos=0.4
 FullRange=1
 LogY=0
 # END PLOT
@@ -10,6 +11,7 @@ LogY=0
 Title=$<\text{N}_\text{ch}>$  vs $\text{p}_{T}^{\mu\mu}$, $60^{o} < | \Delta \phi | < 120^{o}$, $  M_{\mu\mu} \in [81,101]$ GeV/c$^{2}$
 XLabel=$\text{p}_{T}^{\mu\mu}$ [GeV/c]
 YLabel=$(1/N_\text{ev})\; dN_\text{ch}/\Delta \eta \Delta (\Delta \phi) $
+LegendYPos=0.4
 FullRange=1
 LogY=0
 # END PLOT
@@ -18,6 +20,7 @@ LogY=0
 Title=$<\text{N}_\text{ch}>$  vs $\text{p}_{T}^{\mu\mu}$, $| \Delta \phi | > 120^{o}$, $  M_{\mu\mu} \in [81,101]$ GeV/c$^{2}$
 XLabel=$\text{p}_{T}^{\mu\mu}$ [GeV/c]
 YLabel=$(1/N_\text{ev})\; dN_\text{ch}/\Delta \eta \Delta (\Delta \phi) $
+LegendYPos=0.4
 FullRange=1
 LogY=0
 # END PLOT
@@ -26,6 +29,7 @@ LogY=0
 Title=$<\Sigma\text{p}_{T}>$  vs $\text{p}_{T}^{\mu\mu}$, $| \Delta \phi | < 60^{o}$, $  M_{\mu\mu} \in [81,101]$ GeV/c$^{2}$
 XLabel=$\text{p}_{T}^{\mu\mu}$ [GeV/c]
 YLabel=$(1/N_\text{ev})\; \Sigma p_{T}/\Delta \eta \Delta (\Delta \phi)$ [GeV/c]
+LegendYPos=0.4
 FullRange=1
 LogY=0
 # END PLOT
@@ -34,6 +38,7 @@ LogY=0
 Title=$<\Sigma\text{p}_{T}>$  vs $\text{p}_{T}^{\mu\mu}$, $60^{o} < | \Delta \phi | < 120^{o}$, $  M_{\mu\mu} \in [81,101]$ GeV/c$^{2}$
 XLabel=$\text{p}_{T}^{\mu\mu}$ [GeV/c]
 YLabel=$(1/N_\text{ev})\; \Sigma p_{T}/\Delta \eta \Delta (\Delta \phi)$ [GeV/c]
+LegendYPos=0.4
 FullRange=1
 LogY=0
 # END PLOT
@@ -42,6 +47,7 @@ LogY=0
 Title=$<\Sigma\text{p}_{T}>$ vs $\text{p}_{T}^{\mu\mu}$, $| \Delta \phi | > 120^{o}$, $  M_{\mu\mu} \in [81,101]$ GeV/c$^{2}$
 XLabel=$\text{p}_{T}^{\mu\mu}$ [GeV/c]
 YLabel=$(1/N_\text{ev})\; \Sigma p_{T}/\Delta \eta \Delta (\Delta \phi)$ [GeV/c]
+LegendYPos=0.4
 FullRange=1
 LogY=0
 # END PLOT
@@ -50,6 +56,7 @@ LogY=0
 Title=$< \Sigma\text{p}_{T}>$/<$\text{N}_\text{ch}>$ vs $\text{p}_{T}^{\mu\mu}$, $| \Delta \phi | < 60^{o}$, $  M_{\mu\mu} \in [81,101]$ GeV/c$^{2}$
 XLabel=$\text{p}_{T}^{\mu\mu}$ [GeV/c]
 YLabel=$<\Sigma p_{T}>/<\text{N}_\text{ch}>$ [GeV/c]
+LegendYPos=0.4
 FullRange=1
 LogY=0
 # END PLOT
@@ -58,6 +65,7 @@ LogY=0
 Title=$< \Sigma\text{p}_{T}>$/$\<text{N}_\text{ch}>$ vs $\text{p}_{T}^{\mu\mu}$, $60^{o} < | \Delta \phi | < 120^{o}$, $  M_{\mu\mu} \in [81,101]$ GeV/c$^{2}$
 XLabel=$\text{p}_{T}^{\mu\mu}$ [GeV/c]
 YLabel=$< \Sigma p_{T}>/<\text{N}_\text{ch}>$ [GeV/c]
+LegendYPos=0.4
 FullRange=1
 LogY=0
 # END PLOT
@@ -66,6 +74,7 @@ LogY=0
 Title=$< \Sigma\text{p}_{T}>$/$< \text{N}_\text{ch}>$ vs $\text{p}_{T}^{\mu\mu}$, $| \Delta \phi | > 120^{o}$, $  M_{\mu\mu} \in [81,101]$ GeV/c$^{2}$
 XLabel=$\text{p}_{T}^{\mu\mu}$ [GeV/c]
 YLabel=$<\Sigma p_{T}>/<\text{N}_\text{ch}>$ [GeV/c]
+LegendYPos=0.4
 FullRange=1
 LogY=0
 # END PLOT
@@ -75,6 +84,7 @@ LogY=0
 Title=$<\text{N}_\text{ch}>$ vs $\text{M}_{\mu\mu}$, $| \Delta \phi | < 120^{o}$, $ p_{T}^{\mu\mu} < 5$ GeV/c
 XLabel=$\text{M}_{\mu\mu}$ [GeV/c$^{2}$]
 YLabel=$(1/N_\text{ev})\; dN_\text{ch}/\Delta \eta \Delta (\Delta \phi) $
+LegendYPos=0.4
 FullRange=1
 LogY=0
 # END PLOT
@@ -83,6 +93,7 @@ LogY=0
 Title=$<\Sigma\text{p}_{T}>$ vs $\text{M}_{\mu\mu}$, $| \Delta \phi | < 120^{o}$, $ p_{T}^{\mu\mu} < 5$ GeV/c
 XLabel=$\text{M}_{\mu\mu}$ [GeV/c$^{2}$]
 YLabel=$(1/N_\text{ev})\; \Sigma p_{T}/\Delta \eta \Delta (\Delta \phi)$ [GeV/c]
+LegendYPos=0.4
 FullRange=1
 LogY=0
 # END PLOT
@@ -91,6 +102,7 @@ LogY=0
 Title=$< \Sigma\text{p}_{T}>$/$< \text{N}_\text{ch}>$ vs $\text{M}_{\mu\mu}$, $| \Delta \phi | < 120^{o}$, $p_{T}^{\mu\mu} < 5$ GeV/c
 XLabel=$\text{M}_{\mu\mu}$ [GeV/c$^{2}$]
 YLabel=$<\Sigma p_{T}>/<\text{N}_\text{ch}>$ [GeV/c]
+LegendYPos=0.4
 FullRange=1
 LogY=0
 # END PLOT

@@ -20,7 +20,7 @@ PtCuts: [56, 84, 120]
 Description:  'The differential B anti-B cross section is measured as a function of the opening angle Delta R and Delta Phi 
    using data collected with the CMS detector during 2010 and corresponding to an integrated luminosity of 3.1 inverse pb. 
    The measurement is performed for three different event energy scales, characterized by the transverse momentum of the 
-   leading jet in the event (above 56 GeV, above 84 GeV and above 120 GeV). '
+   leading jet in the event (above 56 GeV, above 84 GeV and above 120 GeV). Simulated events are normalised in the region Delta R > 2.4 and Delta Phi > 3/4 Pi respectively.'
 BibKey: Khachatryan:2011wq
 BibTeX: '@Article{Khachatryan:2011wq,
      author    = "Khachatryan, Vardan and others",
@@ -37,4 +37,6 @@ BibTeX: '@Article{Khachatryan:2011wq,
      doi       = "10.1007/JHEP03(2011)136",
      SLACcitation  = "%%CITATION = 1102.3194;%%"
 }'
-ToDo: 'test and validate'
+ToDo:
+ - yaml/external rivet check
+ - change validated to unvalidated

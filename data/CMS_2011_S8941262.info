@@ -16,7 +16,6 @@ RunInfo:
 NumEvents: 10000000
 Beams: [p+, p+]
 Energies: [7000]
-PtCuts: [6, 30]
 Description:  'The differential B anti-B cross section is measured as a function of the opening angle Delta R and Delta Phi 
    using data collected with the CMS detector during 2010 and corresponding to an integrated luminosity of 3.1 inverse pb. 
    The measurement is performed for three different event energy scales, characterized by the transverse momentum of the 
@@ -37,4 +36,6 @@ BibTeX: '@Article{Khachatryan:2011hf,
      doi       = "10.1007/JHEP03(2011)090",
      SLACcitation  = "%%CITATION = 1101.3512;%%"
 }'
-ToDo: 'test and validate'
+ToDo: 
+  - validate
+  - yaml/external rivet check

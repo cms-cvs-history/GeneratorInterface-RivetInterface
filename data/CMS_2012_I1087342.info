@@ -3,8 +3,8 @@ Year: 2011
 Summary: Measurement of forward and forward+central jets at sqrt(s) = 7 TeV
 Experiment: CMS
 Collider: LHC
-SpiresID: I1087342
-Status: UNVALIDATED
+SpiresID: 1087342
+Status: VALIDATED
 Authors:
   - Albert Knutsson <albert.knutsson@cern.ch>
   - Rasmus Sloth Hansen <rsh07@phys.au.dk>
@@ -13,11 +13,11 @@ References:
   - JHEP 1206 (2012) 036
   - CMS-FWD-11-002
   - CERN-PH-EP-2011-179
-  - DOI: 10.1007/JHEP06(2012)036 
+  - doi 10.1007/JHEP06(2012)036 
   - arXiv:1202.0704 [hep-ex]
 RunInfo:
    pp QCD interactions at 7 TeV.
-NumEvents: 10000000
+NumEvents: 500000
 Beams: [p+, p+]
 Energies: [7000] 
 Description:

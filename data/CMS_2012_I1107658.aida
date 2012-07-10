@@ -3,10 +3,10 @@
 <aida version="3.3">
   <implementation version="1.1" package="Rivet"/>
   <dataPointSet name="d02-x01-y01" dimension="2"
-      path="/REF/CMS_QCD_11_012" title="ntrk-profile-trans-Pt">
+      path="/REF/CMS_2012_I1107658" title="ntrk-profile-trans-Pt">
     <annotation>
       <item key="Title" value="ntrk-profile-trans-Pt" sticky="true"/>
-      <item key="AidaPath" value="/REF/CMS_QCD_11_012/d02-x01-y01" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I1107658/d02-x01-y01" sticky="true"/>
     </annotation>
     <dataPoint>
       <measurement errorPlus="2.500000e+00" value="2.500000e+00" errorMinus="2.500000e+00"/>
@@ -90,10 +90,10 @@
     </dataPoint>
   </dataPointSet>
   <dataPointSet name="d04-x01-y01" dimension="2"
-      path="/REF/CMS_QCD_11_012" title="ptsum-profile-towards-Pt">
+      path="/REF/CMS_2012_I1107658" title="ptsum-profile-towards-Pt">
     <annotation>
       <item key="Title" value="ptsum-profile-towards-Pt" sticky="true"/>
-      <item key="AidaPath" value="/REF/CMS_QCD_11_012/d04-x01-y01" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I1107658/d04-x01-y01" sticky="true"/>
     </annotation>
     <dataPoint>
       <measurement errorPlus="2.500000e+00" value="2.500000e+00" errorMinus="2.500000e+00"/>
@@ -177,10 +177,10 @@
     </dataPoint>
   </dataPointSet>
   <dataPointSet name="d03-x01-y01" dimension="2"
-      path="/REF/CMS_QCD_11_012" title="ntrk-profile-away-Pt">
+      path="/REF/CMS_2012_I1107658" title="ntrk-profile-away-Pt">
     <annotation>
       <item key="Title" value="ntrk-profile-away-Pt" sticky="true"/>
-      <item key="AidaPath" value="/REF/CMS_QCD_11_012/d03-x01-y01" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I1107658/d03-x01-y01" sticky="true"/>
     </annotation>
     <dataPoint>
       <measurement errorPlus="2.500000e+00" value="2.500000e+00" errorMinus="2.500000e+00"/>
@@ -264,10 +264,10 @@
     </dataPoint>
   </dataPointSet>
   <dataPointSet name="d20-x01-y01" dimension="2"
-      path="/REF/CMS_QCD_11_012" title="trkpt-trans-Mll">
+      path="/REF/CMS_2012_I1107658" title="trkpt-trans-Mll">
     <annotation>
       <item key="Title" value="trkpt-trans-Mll" sticky="true"/>
-      <item key="AidaPath" value="/REF/CMS_QCD_11_012/d20-x01-y01" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I1107658/d20-x01-y01" sticky="true"/>
     </annotation>
     <dataPoint>
       <measurement errorPlus="2.500000e-01" value="7.500000e-01" errorMinus="2.500000e-01"/>
@@ -387,10 +387,10 @@
     </dataPoint>
   </dataPointSet>
   <dataPointSet name="d09-x01-y01" dimension="2"
-      path="/REF/CMS_QCD_11_012" title="avgpt-profile-away-Pt">
+      path="/REF/CMS_2012_I1107658" title="avgpt-profile-away-Pt">
     <annotation>
       <item key="Title" value="avgpt-profile-away-Pt" sticky="true"/>
-      <item key="AidaPath" value="/REF/CMS_QCD_11_012/d09-x01-y01" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I1107658/d09-x01-y01" sticky="true"/>
     </annotation>
     <dataPoint>
       <measurement errorPlus="2.500000e+00" value="2.500000e+00" errorMinus="2.500000e+00"/>
@@ -474,10 +474,10 @@
     </dataPoint>
   </dataPointSet>
   <dataPointSet name="d13-x01-y01" dimension="2"
-      path="/REF/CMS_QCD_11_012" title="ntrk-toward-Pt">
+      path="/REF/CMS_2012_I1107658" title="ntrk-toward-Pt">
     <annotation>
       <item key="Title" value="ntrk-toward-Pt" sticky="true"/>
-      <item key="AidaPath" value="/REF/CMS_QCD_11_012/d13-x01-y01" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I1107658/d13-x01-y01" sticky="true"/>
     </annotation>
     <dataPoint>
       <measurement errorPlus="5.000000e-01" value="0.000000e+00" errorMinus="5.000000e-01"/>
@@ -605,10 +605,10 @@
     </dataPoint>
   </dataPointSet>
   <dataPointSet name="d18-x01-y01" dimension="2"
-      path="/REF/CMS_QCD_11_012" title="trkpt-away-Pt">
+      path="/REF/CMS_2012_I1107658" title="trkpt-away-Pt">
     <annotation>
       <item key="Title" value="trkpt-away-Pt" sticky="true"/>
-      <item key="AidaPath" value="/REF/CMS_QCD_11_012/d18-x01-y01" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I1107658/d18-x01-y01" sticky="true"/>
     </annotation>
     <dataPoint>
       <measurement errorPlus="2.500000e-01" value="7.500000e-01" errorMinus="2.500000e-01"/>
@@ -728,10 +728,10 @@
     </dataPoint>
   </dataPointSet>
   <dataPointSet name="d16-x01-y01" dimension="2"
-      path="/REF/CMS_QCD_11_012" title="trkpt-toward-Pt">
+      path="/REF/CMS_2012_I1107658" title="trkpt-toward-Pt">
     <annotation>
       <item key="Title" value="trkpt-toward-Pt" sticky="true"/>
-      <item key="AidaPath" value="/REF/CMS_QCD_11_012/d16-x01-y01" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I1107658/d16-x01-y01" sticky="true"/>
     </annotation>
     <dataPoint>
       <measurement errorPlus="2.500000e-01" value="7.500000e-01" errorMinus="2.500000e-01"/>
@@ -851,10 +851,10 @@
     </dataPoint>
   </dataPointSet>
   <dataPointSet name="d05-x01-y01" dimension="2"
-      path="/REF/CMS_QCD_11_012" title="ptsum-profile-trans-Pt">
+      path="/REF/CMS_2012_I1107658" title="ptsum-profile-trans-Pt">
     <annotation>
       <item key="Title" value="ptsum-profile-trans-Pt" sticky="true"/>
-      <item key="AidaPath" value="/REF/CMS_QCD_11_012/d05-x01-y01" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I1107658/d05-x01-y01" sticky="true"/>
     </annotation>
     <dataPoint>
       <measurement errorPlus="2.500000e+00" value="2.500000e+00" errorMinus="2.500000e+00"/>
@@ -938,10 +938,10 @@
     </dataPoint>
   </dataPointSet>
   <dataPointSet name="d11-x01-y01" dimension="2"
-      path="/REF/CMS_QCD_11_012" title="ptsum-profile-toward-plus-trans-Mll">
+      path="/REF/CMS_2012_I1107658" title="ptsum-profile-toward-plus-trans-Mll">
     <annotation>
       <item key="Title" value="ptsum-profile-toward-plus-trans-Mll" sticky="true"/>
-      <item key="AidaPath" value="/REF/CMS_QCD_11_012/d11-x01-y01" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I1107658/d11-x01-y01" sticky="true"/>
     </annotation>
     <dataPoint>
       <measurement errorPlus="5.000000e+00" value="4.500000e+01" errorMinus="5.000000e+00"/>
@@ -985,10 +985,10 @@
     </dataPoint>
   </dataPointSet>
   <dataPointSet name="d14-x01-y01" dimension="2"
-      path="/REF/CMS_QCD_11_012" title="ntrk-trans-Pt">
+      path="/REF/CMS_2012_I1107658" title="ntrk-trans-Pt">
     <annotation>
       <item key="Title" value="ntrk-trans-Pt" sticky="true"/>
-      <item key="AidaPath" value="/REF/CMS_QCD_11_012/d14-x01-y01" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I1107658/d14-x01-y01" sticky="true"/>
     </annotation>
     <dataPoint>
       <measurement errorPlus="5.000000e-01" value="0.000000e+00" errorMinus="5.000000e-01"/>
@@ -1116,10 +1116,10 @@
     </dataPoint>
   </dataPointSet>
   <dataPointSet name="d01-x01-y01" dimension="2"
-      path="/REF/CMS_QCD_11_012" title="ntrk-profile-towards-Pt">
+      path="/REF/CMS_2012_I1107658" title="ntrk-profile-towards-Pt">
     <annotation>
       <item key="Title" value="ntrk-profile-towards-Pt" sticky="true"/>
-      <item key="AidaPath" value="/REF/CMS_QCD_11_012/d01-x01-y01" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I1107658/d01-x01-y01" sticky="true"/>
     </annotation>
     <dataPoint>
       <measurement errorPlus="2.500000e+00" value="2.500000e+00" errorMinus="2.500000e+00"/>
@@ -1203,10 +1203,10 @@
     </dataPoint>
   </dataPointSet>
   <dataPointSet name="d08-x01-y01" dimension="2"
-      path="/REF/CMS_QCD_11_012" title="avgpt-profile-trans-Pt">
+      path="/REF/CMS_2012_I1107658" title="avgpt-profile-trans-Pt">
     <annotation>
       <item key="Title" value="avgpt-profile-trans-Pt" sticky="true"/>
-      <item key="AidaPath" value="/REF/CMS_QCD_11_012/d08-x01-y01" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I1107658/d08-x01-y01" sticky="true"/>
     </annotation>
     <dataPoint>
       <measurement errorPlus="2.500000e+00" value="2.500000e+00" errorMinus="2.500000e+00"/>
@@ -1290,10 +1290,10 @@
     </dataPoint>
   </dataPointSet>
   <dataPointSet name="d07-x01-y01" dimension="2"
-      path="/REF/CMS_QCD_11_012" title="avgpt-profile-toward-Pt">
+      path="/REF/CMS_2012_I1107658" title="avgpt-profile-toward-Pt">
     <annotation>
       <item key="Title" value="avgpt-profile-toward-Pt" sticky="true"/>
-      <item key="AidaPath" value="/REF/CMS_QCD_11_012/d07-x01-y01" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I1107658/d07-x01-y01" sticky="true"/>
     </annotation>
     <dataPoint>
       <measurement errorPlus="2.500000e+00" value="2.500000e+00" errorMinus="2.500000e+00"/>
@@ -1377,10 +1377,10 @@
     </dataPoint>
   </dataPointSet>
   <dataPointSet name="d12-x01-y01" dimension="2"
-      path="/REF/CMS_QCD_11_012" title="avgpt-profile-toward-plus-trans-Mll">
+      path="/REF/CMS_2012_I1107658" title="avgpt-profile-toward-plus-trans-Mll">
     <annotation>
       <item key="Title" value="avgpt-profile-toward-plus-trans-Mll" sticky="true"/>
-      <item key="AidaPath" value="/REF/CMS_QCD_11_012/d12-x01-y01" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I1107658/d12-x01-y01" sticky="true"/>
     </annotation>
     <dataPoint>
       <measurement errorPlus="5.000000e+00" value="4.500000e+01" errorMinus="5.000000e+00"/>
@@ -1424,10 +1424,10 @@
     </dataPoint>
   </dataPointSet>
   <dataPointSet name="d10-x01-y01" dimension="2"
-      path="/REF/CMS_QCD_11_012" title="ntrk-profile-toward-plus-trans-Mll">
+      path="/REF/CMS_2012_I1107658" title="ntrk-profile-toward-plus-trans-Mll">
     <annotation>
       <item key="Title" value="ntrk-profile-toward-plus-trans-Mll" sticky="true"/>
-      <item key="AidaPath" value="/REF/CMS_QCD_11_012/d10-x01-y01" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I1107658/d10-x01-y01" sticky="true"/>
     </annotation>
     <dataPoint>
       <measurement errorPlus="5.000000e+00" value="4.500000e+01" errorMinus="5.000000e+00"/>
@@ -1471,10 +1471,10 @@
     </dataPoint>
   </dataPointSet>
   <dataPointSet name="d17-x01-y01" dimension="2"
-      path="/REF/CMS_QCD_11_012" title="trkpt-trans-Pt">
+      path="/REF/CMS_2012_I1107658" title="trkpt-trans-Pt">
     <annotation>
       <item key="Title" value="trkpt-trans-Pt" sticky="true"/>
-      <item key="AidaPath" value="/REF/CMS_QCD_11_012/d17-x01-y01" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I1107658/d17-x01-y01" sticky="true"/>
     </annotation>
     <dataPoint>
       <measurement errorPlus="2.500000e-01" value="7.500000e-01" errorMinus="2.500000e-01"/>
@@ -1594,10 +1594,10 @@
     </dataPoint>
   </dataPointSet>
   <dataPointSet name="d15-x01-y01" dimension="2"
-      path="/REF/CMS_QCD_11_012" title="ntrk-away-Pt">
+      path="/REF/CMS_2012_I1107658" title="ntrk-away-Pt">
     <annotation>
       <item key="Title" value="ntrk-away-Pt" sticky="true"/>
-      <item key="AidaPath" value="/REF/CMS_QCD_11_012/d15-x01-y01" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I1107658/d15-x01-y01" sticky="true"/>
     </annotation>
     <dataPoint>
       <measurement errorPlus="5.000000e-01" value="0.000000e+00" errorMinus="5.000000e-01"/>
@@ -1725,10 +1725,10 @@
     </dataPoint>
   </dataPointSet>
   <dataPointSet name="d06-x01-y01" dimension="2"
-      path="/REF/CMS_QCD_11_012" title="ptsum-profile-away-Pt">
+      path="/REF/CMS_2012_I1107658" title="ptsum-profile-away-Pt">
     <annotation>
       <item key="Title" value="ptsum-profile-away-Pt" sticky="true"/>
-      <item key="AidaPath" value="/REF/CMS_QCD_11_012/d06-x01-y01" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I1107658/d06-x01-y01" sticky="true"/>
     </annotation>
     <dataPoint>
       <measurement errorPlus="2.500000e+00" value="2.500000e+00" errorMinus="2.500000e+00"/>
@@ -1812,10 +1812,10 @@
     </dataPoint>
   </dataPointSet>
   <dataPointSet name="d19-x01-y01" dimension="2"
-      path="/REF/CMS_QCD_11_012" title="ntrk-trans-Mll">
+      path="/REF/CMS_2012_I1107658" title="ntrk-trans-Mll">
     <annotation>
       <item key="Title" value="ntrk-trans-Mll" sticky="true"/>
-      <item key="AidaPath" value="/REF/CMS_QCD_11_012/d19-x01-y01" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I1107658/d19-x01-y01" sticky="true"/>
     </annotation>
     <dataPoint>
       <measurement errorPlus="5.000000e-01" value="0.000000e+00" errorMinus="5.000000e-01"/>

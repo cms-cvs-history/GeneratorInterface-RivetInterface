@@ -1,5 +1,5 @@
-Name: CMS_QCD_11_012
-Year: 2011
+Name: CMS_2012_I1107658
+Year: 2012
 Summary: Measurement of the Underlying Event Activity in the Drell-Yan process at centre-of-mass energy of 7 TeV .
 Experiment: CMS
 Collider: LHC
@@ -8,6 +8,9 @@ Status: UNVALIDATED
 Authors:
  - Sunil Bansal (sunil.bansal@cern.ch) 
 References:
+  - CMS-QCD-11-012
+  - CERN-PH-EP-2012-085
+  - arXiv:1204.1411 [hep-ex]
 RunInfo: Drell-Yan events with $Z/\gamma* -> \mu\mu$. $m(\mu,\mu) > 20$ GeV
 Beams: [p+, p+]
 Energies: [7000]
@@ -26,8 +29,17 @@ Description:
    dependence is studied for the events having M_mumu in window of 81-101 GeV^{c}. The normalized charged particle 
    multiplicity and pT spectrum of the charged particles in three regions also been reported for events having M_mumu in window of 81-101 GeV^{c}.
    multiplicity and pT spectrum in the transverse also reported in for events having pT_mumu < 5 GeV/c.
- 
-BibKey: 
-BibTeX: 
+BibKey: Chatrchyan:2012tb
+BibTeX: '@article{Chatrchyan:2012tb,
+      author         = "Chatrchyan, Serguei and others",
+      title          = "{Measurement of the underlying event in the Drell-Yan
+                        process in proton-proton collisions at sqrt(s) = 7 TeV}",
+      collaboration  = "CMS Collaboration",
+      year           = "2012",
+      eprint         = "1204.1411",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ex",
+      reportNumber   = "CMS-QCD-11-012, CERN-PH-EP-2012-085",
+      SLACcitation   = "%%CITATION = ARXIV:1204.1411;%%",}'
 To do:
- - UPDATE REFERENCES AND BIBTEX WHEN PUBLISHED
+ - Update references once EPJ assignes numbers

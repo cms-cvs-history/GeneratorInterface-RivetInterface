@@ -1,4 +1,4 @@
-Name: CMS_QCD_11_010
+Name: CMS_2012_PAS_QCD_11_010
 Year: 2011
 Summary: Measurement of Strange Particle Production in Underlying Events in proton-proton collisions at sqrt(s) = 7 TeV
 Experiment: CMS
@@ -6,12 +6,12 @@ Collider: LHC
 SpireID: 
 Status: UNVALIDATED
 Authors:
- - Sercan Sen <ssen@cern.ch>
+ - Sercan Sen <Sercan.Sen@cern.ch>
 References:
  - CMS-PAS-QCD-11-010
  - http://cdsweb.cern.ch/record/1463352?ln=en
 RunInfo:
-   Inelastic events (ND+SD+DD) at $\sqrt{s}$ = 7 TeV.
+   Inelastic events (non-diffractive and inelastic diffractive) at $\sqrt{s}$ = 7 TeV.
 NumEvents: 500000
 NeedCrossSection: no
 Beams: [p+, p+]

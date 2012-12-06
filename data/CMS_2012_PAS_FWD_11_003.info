@@ -14,13 +14,6 @@ RunInfo:
    Inelastic events (non-diffractive and diffractive) at $\sqrt{s}$ = 0.9, 2.76 and 7 TeV.
 NumEvents: 1 Mio
 Beams:  [p+, p+]
-Energies:[900, 2760, 7000]
-PtCuts: [0] 
-Description: 
-	'Ratio of the energy deposited in the  pseudorapidity range -6.6 < eta < -5.2 for events with a charged particle jet 		 with |eta| <2 with respect to the energy in  inclusive events, as a function of charged particle jet transverse 	  momentum for sqrt(s)=0.9, 2.76 and 7 TeV.'
-BibKey: CMS-PAS-FWD-11-003
-BibTeX: '@article{CMS-PAS-FWD-11-003,
-      	title        = "Study of the Underlying Event at Forward Rapidity in
-                      Proton-Proton Collisions at the LHC",
-      	year         = "2012",
-	}' 
+Energies: 900, 2760, 7000
+Description:
+  Ratio of the energy deposited in the  pseudorapidity range -6.6 < eta < -5.2 for events with a charged particle jet with |eta| <2 with respect to the energy in  inclusive events, as a function of charged particle jet transverse momentum for sqrt(s)=0.9, 2.76 and 7 TeV.

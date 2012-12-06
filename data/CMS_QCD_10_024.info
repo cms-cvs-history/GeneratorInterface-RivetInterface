@@ -3,7 +3,7 @@ Year: 2010
 Summary: Pseudorapidity distributions of charged particles in pp collisions at sqrt(s)=0.9 and 7 TeV with at least one central charged particle
 Experiment: CMS
 Collider: LHC
-SpiresID: -
+SpiresID: none 
 Status: UNVALIDATED
 Authors:
  - P. Katsas <panagiotis.katsas@cern.ch>

@@ -24,17 +24,4 @@ Description:
    which approximates the fractional momentum loss of the scattered proton in single-diffraction events. The 
    data used has a total integrated luminosity of 2.7 nb-1 collected during 2010 with low instantaneous luminosity. 
    Events are selected with at least two jets in $|\eta| < 4.4$ with $pT > 20$ GeV and all final states particles 
-   are used for the reconstruction of $\xi$'.
-BibKey: :2012vc
-BibTeX: '@article{:2012vc,
-      author         = "Chatrchyan, Serguei and others",
-      title          = "{Observation of a diffractive contribution to dijet
-                        production in proton-proton collisions at sqrt(s)=7 TeV}",
-      collaboration  = "CMS Collaboration",
-      year           = "2012",
-      eprint         = "1209.1805",
-      archivePrefix  = "arXiv",
-      primaryClass   = "hep-ex",
-      reportNumber   = "CMS-FWD-10-004, CERN-PH-EP-2012-248",
-      SLACcitation   = "%%CITATION = ARXIV:1209.1805;%%",
-}'
+   are used for the reconstruction of $\xi$.
